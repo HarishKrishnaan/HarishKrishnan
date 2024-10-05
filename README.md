@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadStryfe
+- 👋 Hi, I’m @HarishKrishnan
 - 👀 I’m interested in computer science and gaming
 - 🌱 I’m currently learning Database Management Systems and Game Development
 - 💞️ I’m looking to collaborate on School Projects and fun beginner game dev problems
