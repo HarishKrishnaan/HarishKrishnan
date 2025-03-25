@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarishKrishnan
-- 👀 I’m interested in computer science and gaming
-- 🌱 I’m currently learning Database Management Systems and Game Development
+- 👀 I’m interested in Web and App development 
+- 🌱 I’m currently learning React, React Native, Algorithms and JavaScript
 - 💞️ I’m looking to collaborate on School Projects and fun beginner game dev problems
-- 📫 How to reach me: hk857@scarletmail.rutgers.edu
+- 📫 How to reach me: message me on gitHub!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I rock climb
 
