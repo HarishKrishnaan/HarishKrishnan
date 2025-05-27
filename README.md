@@ -3,7 +3,7 @@
 - 📌 Here are links to a few of my projects: HousingEstimate - [Housing Estimate](https://github.com/HarishKrishnaan/HousingEstimate.git) - [Forensic Analysis](https://github.com/HarishKrishnaan/ForensicAnalysis.git)
 - 📫 How to reach me: message me on gitHub, or send me an email at: hk857@scarletmail.rutgers.edu
 - 🌱 I’m currently learning React, React Native, JavaScript, and TypeScript
-- 📄 [My Resume](https://drive.google.com/file/d/1P8oZBGTjFzG2zovfR7Q2_MHZLFnQqYjr/view) - [Handshake](https://rutgers.joinhandshake.com/profiles/tr3gvj)
+- 📄 [My Resume](https://drive.google.com/file/d/1P8oZBGTjFzG2zovfR7Q2_MHZLFnQqYjr/view) - [My Handshake Profile](https://rutgers.joinhandshake.com/profiles/tr3gvj)
 
 <!---
 MadStryfe/MadStryfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
